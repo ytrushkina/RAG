@@ -1,2 +1,2 @@
 # RAG
-Retrievan Augmented Generation
+Retrieval Augmented Generation
